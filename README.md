@@ -1,6 +1,6 @@
 # Odin Recipes
 
-This is a simple site containing recipes of my favourite recipes.
+This is a simple site containing recipes of my favourite dishes.
 
 This is built as a project to showcase following skills
 
